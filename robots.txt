@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /api/
+Disallow: /proxy.php
+Disallow: /search_api.php
+
+Sitemap: https://flexor.gt.tc/sitemap.php
